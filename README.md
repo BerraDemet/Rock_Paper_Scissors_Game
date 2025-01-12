@@ -1,9 +1,6 @@
 
 # Rock, Paper, Scissors Game
 
-https://github.com/user-attachments/assets/913d4764-9cbe-4b80-8731-e90a752ee350
-
-
 A fun web-based Rock, Paper, Scissors game built with **React.js** and **Tailwind CSS**.
 
 ## Features
@@ -12,6 +9,8 @@ A fun web-based Rock, Paper, Scissors game built with **React.js** and **Tailwin
 - Play against the computer.
 - Tracks user and computer scores.
 - Responsive design, works on all devices.
+
+https://github.com/user-attachments/assets/90e8cfc6-9601-440e-8283-9ece763fc05e
 
 ## How It Works
 
